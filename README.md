@@ -1,4 +1,4 @@
-**Project: Robot Fleet Telemetry Platform**
+# **Robot Fleet Telemetry Platform**
 
 A simulated fleet of 3-5 robots → telemetry streaming → storage and data models → dashboards and an ML service. This is exactly what robotics companies build for their fleets.
 
