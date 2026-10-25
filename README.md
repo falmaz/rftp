@@ -26,5 +26,3 @@ ROS 2, Gazebo, C++ (rclcpp), Python, Kafka/Redpanda, MinIO, ClickHouse, dbt-clic
 - Starts with one command (`docker compose up`).
 - README has an architecture diagram, a GIF or video demo, and measured numbers: messages/sec, end-to-end latency (p95), data volume.
 - At least one incident write-up: a robot got stuck, and the data shows why.
-
-**For the CV later:** "Built fleet telemetry platform for N simulated ROS 2 robots: X msg/s, p95 latency Y s, episode detection, anomaly model serving."
